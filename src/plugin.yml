@@ -1,0 +1,9 @@
+main: hydrox.main.StaffTickets
+name: StaffTickets
+version: 0.0.1
+prefix: ST
+api-version: 1.13
+commands:
+  tickets:
+    description: Controls all the tickets players open and close.
+    aliases: ticket
